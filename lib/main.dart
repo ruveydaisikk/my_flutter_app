@@ -32,4 +32,3 @@ class MyHomePage extends StatelessWidget {
     );
   }
 }
-
